@@ -30,9 +30,9 @@ https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="BANGLA",Channel I
-http://tv-cdn.ihub.live:8080/ChannelI/tracks-v1a1/mono.m3u8
+http://live.kytetv.cf/StarSports1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BANGLA",DBC NEWS
-https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+https://raw.githubusercontent.com/Rabby000/IPtv/master/IPtv?token=AQL7ONIGLEKQKFJ7VI3TJGLAKN4XM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="BANGLA",DESH TV
@@ -189,7 +189,8 @@ https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="NEWS",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="NEWS",AL JAZEERA
-https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="NEWS",DW NEWS
-https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="NEWS",Ind vs Eng
+http://live.kytetv.cf/StarSports1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="NEWS",Ind vs Eng 2
+http://live.kytetv.cf/StarSports1/tracks-v3a1/mono.m3u8
+
